@@ -7,5 +7,6 @@ public class ExampleTwo {
         System.out.print("C"); // "C"
         System.out.println("D"); // "D" with enter
         System.out.println("E"); // "E" with enter
+        System.out.println("F"); // "F" with enter
     }
 }
