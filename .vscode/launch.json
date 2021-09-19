@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch wjfjkwef",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.wjfjkwef",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW11",
+            "request": "launch",
+            "mainClass": "Homework.HW11",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW1",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW1",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW10",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW10",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW2",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW2",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW3",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW3",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW4",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW4",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW5",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW5",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW6",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW6",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW7",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW7",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW8",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW8",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW9",
+            "request": "launch",
+            "mainClass": "Homework.UnitOne.HW9",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleFive",
+            "request": "launch",
+            "mainClass": "week1.ExampleFive",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleFour",
+            "request": "launch",
+            "mainClass": "week1.ExampleFour",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleOne",
+            "request": "launch",
+            "mainClass": "week1.ExampleOne",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleSix",
+            "request": "launch",
+            "mainClass": "week1.ExampleSix",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleThree",
+            "request": "launch",
+            "mainClass": "week1.ExampleThree",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleTwo",
+            "request": "launch",
+            "mainClass": "week1.ExampleTwo",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch homework",
+            "request": "launch",
+            "mainClass": "week1.homework",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleEight",
+            "request": "launch",
+            "mainClass": "week2.ExampleEight",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleSeven",
+            "request": "launch",
+            "mainClass": "week2.ExampleSeven",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        },
+        {
+            "type": "java",
+            "name": "Launch ModulusExample",
+            "request": "launch",
+            "mainClass": "week2.ModulusExample",
+            "projectName": "ICS3U-BLOCK-4-2021_7969f5fe"
+        }
+    ]
+}
