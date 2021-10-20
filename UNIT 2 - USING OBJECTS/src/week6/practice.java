@@ -4,10 +4,10 @@ public class practice {
     public static void main(String[] args) {
         // printBack("AIDAN");
         // removeVowels("CANADA");
-        // rowsAndColums();
+         rowsAndColums();
         // printBackWards("JETHA");
-        minutesToSeconds("06:34.356");
-        takeOutA("I AM SUSSY BAKA");
+        //minutesToSeconds("06:34.356");
+        //takeOutA("I AM SUSSY BAKA");
 
     }
 
