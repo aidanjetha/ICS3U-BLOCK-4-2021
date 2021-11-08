@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch c8Submit",
+            "request": "launch",
+            "mainClass": "week7.c8Submit",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch crazy8Final",
+            "request": "launch",
+            "mainClass": "week7.crazy8Final",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch c8Testing",
+            "request": "launch",
+            "mainClass": "week7.c8Testing",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch c8t",
+            "request": "launch",
+            "mainClass": "week7.c8t",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch crazyEightwork",
+            "request": "launch",
+            "mainClass": "week7.crazyEightwork",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch crazyEight",
+            "request": "launch",
+            "mainClass": "week7.crazyEight",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomExamples",
+            "request": "launch",
+            "mainClass": "week2.RandomExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringExamples",
+            "request": "launch",
+            "mainClass": "week2.StringExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentExample",
+            "request": "launch",
+            "mainClass": "week2.StudentExample",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtraPractice",
+            "request": "launch",
+            "mainClass": "week3.ExtraPractice",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW1",
+            "request": "launch",
+            "mainClass": "week3.Homework.HW1",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch HW6",
+            "request": "launch",
+            "mainClass": "week3.Homework.HW6",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathClassExamples",
+            "request": "launch",
+            "mainClass": "week3.MathClassExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomClassExamples",
+            "request": "launch",
+            "mainClass": "week3.RandomClassExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch UnitTest",
+            "request": "launch",
+            "mainClass": "week3.UnitTest",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperClassExamples",
+            "request": "launch",
+            "mainClass": "week3.WrapperClassExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch BayviewGlenPools",
+            "request": "launch",
+            "mainClass": "week4.BayviewGlenPools",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfStatementExamples",
+            "request": "launch",
+            "mainClass": "week4.IfStatementExamples",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hw",
+            "request": "launch",
+            "mainClass": "week4.hw",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch CrossCountry",
+            "request": "launch",
+            "mainClass": "week5.CrossCountry",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormattingStrings",
+            "request": "launch",
+            "mainClass": "week5.FormattingStrings",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch UsingScanner",
+            "request": "launch",
+            "mainClass": "week5.UsingScanner",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch NestedLoops",
+            "request": "launch",
+            "mainClass": "week6.NestedLoops",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileLoops",
+            "request": "launch",
+            "mainClass": "week6.WhileLoops",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch forLoops",
+            "request": "launch",
+            "mainClass": "week6.forLoops",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch inClassNestedLoops",
+            "request": "launch",
+            "mainClass": "week6.inClassNestedLoops",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice",
+            "request": "launch",
+            "mainClass": "week6.practice",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hangman",
+            "request": "launch",
+            "mainClass": "week7.hangman",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        },
+        {
+            "type": "java",
+            "name": "Launch threeCardPoker",
+            "request": "launch",
+            "mainClass": "week7.threeCardPoker",
+            "projectName": "UNIT 2 - USING OBJECTS_348a722c"
+        }
+    ]
+}

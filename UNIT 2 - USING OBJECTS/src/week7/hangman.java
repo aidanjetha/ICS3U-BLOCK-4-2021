@@ -2,7 +2,7 @@ package week7;
 
 import java.util.Scanner;
 
-/**
+
 public class hangman {
    public static void main(String[] args) {
       boolean playAgain = true;
@@ -164,4 +164,3 @@ public class hangman {
    }
 }
 
-*/
